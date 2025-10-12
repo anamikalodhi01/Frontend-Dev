@@ -1,0 +1,15 @@
+Five Popular Web Browsers:
+
+Google Chrome – Engine: Blink
+
+Mozilla Firefox – Engine: Gecko
+
+Microsoft Edge – Engine: Blink (formerly EdgeHTML)
+
+Apple Safari – Engine: WebKit
+
+Opera – Engine: Blink
+
+Rendering Engine Role:
+A rendering engine converts HTML, CSS, and JS into visual web pages.
+Different engines may render pages slightly differently due to variations in standards compliance and optimization.

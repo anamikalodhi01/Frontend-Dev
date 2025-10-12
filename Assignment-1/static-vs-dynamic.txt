@@ -1,0 +1,9 @@
+Static Website:
+Displays the same content for every user. Built with plain HTML and CSS.
+Example: A college’s “About Us” page.
+Characteristics: No user interaction or database.
+
+Dynamic Website:
+Displays data that changes per user or action. Uses backend scripting and databases.
+Example: Instagram — content changes based on user activity and login.
+Technologies: Node.js, PHP, Python, databases like MySQL or MongoDB.

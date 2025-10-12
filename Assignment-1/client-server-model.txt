@@ -1,0 +1,16 @@
+The client-server model is a structure where clients (like browsers or apps) request services or data from servers.
+
+Diagram (Text Form):
+
+[ Client (Browser) ]  --->  [ Request ]  --->  [ Web Server ]
+       ↑                                            ↓
+       └------------------ [ Response ] <-----------┘
+
+
+Explanation:
+
+The client sends an HTTP request to the web server (e.g., for a webpage).
+
+The server processes the request and sends back an HTTP response (HTML, CSS, JS).
+
+The browser displays the received content to the user.

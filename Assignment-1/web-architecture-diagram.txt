@@ -1,0 +1,21 @@
+Basic Web Architecture:
+
++-----------+        +-----------+        +-------------+
+|  Client   | <----> |  Server   | <----> |  Database   |
+| (Browser) |        | (Backend) |        | (MySQL/MongoDB) |
++-----------+        +-----------+        +-------------+
+          |                 ^
+          |                 |
+          v                 |
+       [ APIs (REST/GraphQL) ]
+
+
+Flow Explanation:
+
+User interacts with the client (browser or app).
+
+The client sends a request to the server through APIs.
+
+The server fetches or updates data from the database.
+
+The response is sent back to the client for display.

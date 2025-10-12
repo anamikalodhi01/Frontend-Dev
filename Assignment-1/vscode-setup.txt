@@ -1,0 +1,20 @@
+Steps to install and configure VS Code for web development:
+
+Download from https://code.visualstudio.com
+.
+
+Install extensions:
+
+Live Server (for preview)
+
+Prettier (for formatting)
+
+HTML CSS Support
+
+JavaScript (ES6) snippets
+
+Create a project folder and open it in VS Code.
+
+Create index.html, style.css, script.js.
+
+Run using Live Server.

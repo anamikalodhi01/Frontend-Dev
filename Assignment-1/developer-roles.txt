@@ -1,0 +1,18 @@
+---------------------------------------------------------------
+| Role                      | Responsibilities                |
+---------------------------------------------------------------
+| Frontend Developer        | Designs user interfaces, writes  |
+|                           | HTML, CSS, and JavaScript, and   |
+|                           | ensures responsiveness and       |
+|                           | accessibility.                   |
+---------------------------------------------------------------
+| Backend Developer         | Manages server logic, creates    |
+|                           | APIs, handles databases, user    |
+|                           | authentication, and ensures app  |
+|                           | performance and security.        |
+---------------------------------------------------------------
+| Database Administrator    | Manages data storage, performs   |
+| (DBA)                     | optimization, backups, and       |
+|                           | ensures data integrity and       |
+|                           | security.                        |
+---------------------------------------------------------------

@@ -1,0 +1,11 @@
+When you type a website URL (e.g., www.wikipedia.org) in a browser:
+
+DNS Lookup: The browser converts the domain into an IP address.
+
+Request Sent: The browser sends an HTTP or HTTPS request to the web server.
+
+Server Response: The server returns HTML, CSS, JS, and other resources.
+
+Rendering: The browser’s rendering engine (like Blink or Gecko) parses HTML, applies CSS, and executes JS.
+
+Display: The webpage is displayed visually to the user.

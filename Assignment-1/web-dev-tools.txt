@@ -1,0 +1,23 @@
+---------------------------------------------------------------
+| Tool                        | Purpose                        |
+---------------------------------------------------------------
+| VS Code                     | Code editor for writing and    |
+|                             | managing HTML, CSS, and JS     |
+|                             | files.                         |
+---------------------------------------------------------------
+| Browser (Chrome/Edge/Firefox)| Used to test, debug, and       |
+|                              | preview webpages.              |
+---------------------------------------------------------------
+| Node.js                     | Provides a JavaScript runtime  |
+|                             | for backend development and    |
+|                             | includes npm (package manager) |
+|                             | to install libraries.          |
+---------------------------------------------------------------
+| Git & GitHub                | Used for version control,      |
+|                             | collaboration, and maintaining |
+|                             | project history.               |
+---------------------------------------------------------------
+| Live Server (VS Code Ext.)  | Automatically refreshes the    |
+|                             | browser when files change,     |
+|                             | making development faster.     |
+---------------------------------------------------------------

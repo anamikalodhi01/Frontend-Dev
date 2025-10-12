@@ -1,0 +1,13 @@
+A web server is software or hardware that delivers web pages to users on request. It uses the HTTP/HTTPS protocol.
+
+Examples:
+
+Apache HTTP Server – open-source, used widely on Linux.
+
+Nginx – high-performance and scalable.
+
+Microsoft IIS – for Windows servers.
+
+LiteSpeed – efficient and used by hosting providers.
+
+Node.js (Express.js) – can serve as a lightweight web server for JS applications.

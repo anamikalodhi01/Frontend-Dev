@@ -1,0 +1,15 @@
+Frontend, backend, and full-stack development are the three key parts of web development.
+
+Frontend Development:
+This deals with everything users see and interact with in the browser. It includes layout, design, buttons, menus, colors, animations, and forms.
+Technologies: HTML (structure), CSS (styling), JavaScript (interactivity).
+Example: The homepage design of Netflix — what users click, scroll, and watch.
+
+Backend Development:
+The backend runs on the server side. It handles logic, database operations, authentication, and data exchange between the website and server.
+Technologies: Node.js, Python (Django/Flask), Java (Spring Boot), PHP, etc.
+Example: When you log into Netflix, the backend verifies your email and password, then fetches your profile and watch history.
+
+Full-Stack Development:
+A full-stack developer handles both frontend and backend together.
+Example: A developer who designs the Netflix interface and also builds the APIs and database that store user data.
