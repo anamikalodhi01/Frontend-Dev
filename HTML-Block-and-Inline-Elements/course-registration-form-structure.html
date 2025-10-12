@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Course Registration Form</title>
+</head>
+<body>
+  <header>
+    <h1>Course Registration</h1>
+  </header>
+
+  <!-- Form structure using fieldset and legend -->
+  <main>
+    <form action="#" method="post" title="Course Registration Form">
+      <fieldset>
+        <legend>Student Information</legend>
+
+        <p>
+          <label for="name">Full Name:</label><br>
+          <input type="text" id="name" name="name" required title="Enter your full name">
+        </p>
+
+        <p>
+          <label for="email">Email:</label><br>
+          <input type="email" id="email" name="email" required title="Enter your email address">
+        </p>
+      </fieldset>
+
+      <fieldset>
+        <legend>Course Selection</legend>
+        <p>
+          <label for="course">Select Course:</label><br>
+          <select id="course" name="course" title="Choose a course">
+            <option value="ml">Machine Learning</option>
+            <option value="web" selected>Web Development</option>
+            <option value="nlp">Natural Language Processing</option>
+          </select>
+        </p>
+      </fieldset>
+
+      <p>
+        <input type="submit" value="Register">
+      </p>
+    </form>
+
+    <!-- Course schedule table -->
+    <section>
+      <h2>Available Course Schedules</h2>
+      <table border="1" title="Course Schedules">
+        <thead>
+          <tr>
+            <th>Day</th>
+            <th>Time</th>
+            <th>Instructor</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Monday</td><td>10:00 - 12:00</td><td>Dr. A</td></tr>
+          <tr><td>Wednesday</td><td>14:00 - 16:00</td><td>Prof. B</td></tr>
+          <tr><td>Friday</td><td>09:00 - 11:00</td><td>Ms. C</td></tr>
+        </tbody>
+      </table>
+    </section>
+  </main>
+
+  <footer>
+    <p>Contact: courses@example.com</p>
+  </footer>
+</body>
+</html>

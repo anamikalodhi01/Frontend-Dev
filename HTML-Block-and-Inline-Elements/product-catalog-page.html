@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Product Catalog</title>
+</head>
+<body>
+  <!-- Product catalog table -->
+  <header>
+    <h1>Online Store — Product Catalog</h1>
+  </header>
+
+  <main>
+    <table border="1" title="Product Catalog Table">
+      <caption>Products Available</caption>
+      <thead>
+        <tr>
+          <th>Product</th>
+          <th>Description</th>
+          <th>Price</th>
+          <th>Availability</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <strong>Smartphone X</strong><br>
+            <img src="images/smartphone.jpg" alt="Smartphone X" width="120">
+          </td>
+          <td>6.5" display, 128GB storage, dual camera.</td>
+          <td>₹19,999</td>
+          <td>In Stock</td>
+        </tr>
+        <tr>
+          <td rowspan="2">
+            <strong>Laptop Y</strong><br>
+            <img src="images/laptop.jpg" alt="Laptop Y" width="140">
+          </td>
+          <td>Intel i5, 8GB RAM, 512GB SSD.</td>
+          <td>₹49,999</td>
+          <td>Limited Stock</td>
+        </tr>
+        <tr>
+          <!-- Use colspan to combine price cell across two columns as an example -->
+          <td colspan="2">Bundle: Laptop + Bag + Mouse</td>
+          <td>In Stock</td>
+        </tr>
+        <tr>
+          <td>
+            <strong>Headphones Z</strong><br>
+            <img src="images/headphones.jpg" alt="Headphones Z" width="120">
+          </td>
+          <td>Wireless, noise-cancelling.</td>
+          <td>₹3,499</td>
+          <td>Out of Stock</td>
+        </tr>
+      </tbody>
+    </table>
+  </main>
+
+  <footer>
+    <p>© 2025 Online Store</p>
+  </footer>
+</body>
+</html>
