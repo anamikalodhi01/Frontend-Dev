@@ -1,0 +1,17 @@
+body { margin:0; font-family:Verdana,sans-serif; text-align:center; }
+header { background:#004466; color:#fff; padding:1em; }
+nav a { color:#fff; margin:0 .8em; text-decoration:none; }
+
+section { min-height:60vh; display:flex; flex-direction:column;
+  justify-content:center; align-items:center; color:#fff; }
+
+.parallax {
+  background:url('https://picsum.photos/1200/800?1') center/cover fixed;
+}
+.linear {
+  background:linear-gradient(90deg,#0077b6,#00b4d8);
+}
+.radial {
+  background:radial-gradient(circle,#ff9a9e,#fad0c4);
+}
+footer { background:#004466; color:#fff; padding:1em; }

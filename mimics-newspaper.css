@@ -1,0 +1,6 @@
+body{font-family:Georgia,serif;margin:2em;background:#fdfdfd;}
+main{max-width:700px;margin:auto;column-count:2;column-gap:2em;}
+.headline{text-align:center;column-span:all;}
+.float-img{float:left;margin:0 1em 1em 0;border-radius:6px;}
+.extra{margin-top:1em;text-align:center;column-span:all;}
+.extra img{margin:.3em;border-radius:4px;}

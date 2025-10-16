@@ -1,0 +1,17 @@
+body { height:100vh; display:flex; justify-content:center; align-items:center;
+  background:#eaf4f8; font-family:Arial; margin:0; }
+.contact-form {
+  background:#fff; padding:2em; border-radius:10px;
+  box-shadow:0 2px 8px rgba(0,0,0,0.1);
+  width:300px; display:flex; flex-direction:column;
+}
+label { margin-top:1em; text-align:left; }
+input,textarea {
+  padding:.6em; border-radius:5px; border:1px solid #ccc;
+  outline:none; margin-top:.3em;
+}
+input:focus,textarea:focus { border-color:#0077b6; }
+button {
+  margin-top:1.5em; padding:.7em; border:none;
+  background:#0077b6; color:#fff; border-radius:5px; cursor:pointer;
+}
